@@ -116,7 +116,6 @@ export default {
     };
   },
   mounted() {
-    console.log('fui montado');
     this.playMusic(true);
   },
   methods: {
